@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-family: 'Smokum', cursive;
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+  }
+  .active {
+    background-color: tomato;
+    color: #fff;
+  }
+  body{
+    background-color: rgb(0, 5, 29);
+    color: #fff;
+}  
+.black{
+    color: black;
+}
